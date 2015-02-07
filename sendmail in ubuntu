@@ -44,4 +44,10 @@ FromLineOverride=YES
 root:your@gmail.com:smtp.gmail.com:587
 
 
-5. ssmtp recipient_email@example.com
+5. sudo apt-get install mailutils
+
+mail -s "my subject" test@emal.com
+C:
+hello this is my content
+Ctrl + D
+
